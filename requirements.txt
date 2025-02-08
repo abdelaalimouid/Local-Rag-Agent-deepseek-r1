@@ -1,0 +1,8 @@
+faiss-cpu
+numpy
+pymupdf
+nltk
+langdetect
+sentence-transformers
+gradio
+ollama

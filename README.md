@@ -58,4 +58,4 @@ Ce projet est sous licence MIT.
 
 # 📧 Contact
 
-Pour toute question, contactez-moi à **your.email@example.com**.
+Pour toute question, contactez-moi à **abdelaalimouid@gmail.com**.
